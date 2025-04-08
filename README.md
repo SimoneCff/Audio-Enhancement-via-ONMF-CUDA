@@ -1,6 +1,7 @@
 # Audio-Enhancement-via-ONMF-CUDA
 
-Testing the ONMF algorithm on audio enhancmentent via CUDA.
+Testing the ONMF algorithm on audio enhancmentent via CUDA. 
+ATTENTION is onyl a test package, sometimes doesn't work!
 
 # Abstract
 
